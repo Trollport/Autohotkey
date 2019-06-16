@@ -1,3 +1,3 @@
 ^j::
-Send, Hello World!
+Send, Hello World{!}
 return

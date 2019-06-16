@@ -1,3 +1,3 @@
 ^::
-MsgBox, Controll!!!!
+MsgBox, Controll{!!!!}
 return
