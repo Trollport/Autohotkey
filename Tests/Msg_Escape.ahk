@@ -1,0 +1,3 @@
+^::
+MsgBox, Controll!!!!
+return
