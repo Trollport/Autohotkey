@@ -1,0 +1,3 @@
+:*:if::
+Send,if(){}
+return
