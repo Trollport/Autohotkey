@@ -1,5 +1,9 @@
 ;Media commands
 ;#IfWinExist Spotify
+*!Down::
+Run KeineWerbung.exe
+return
+
 *!Left::
 Send, {Media_Prev} ;Achtung: Befehle muessen in {} - Klammern
 return
